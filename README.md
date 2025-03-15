@@ -14,19 +14,19 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🍲 Overview
+## 🍲 Overview {#overview}
 This project applies machine learning techniques to classify culinary recipes into their respective cuisines based solely on ingredient information. Using a dataset compiled by researcher Yong-Yeol Ahn, I built decision tree models that can identify patterns in ingredient usage across different Asian and Indian cuisines with approximately 70% accuracy.
 
 The classification of cuisines has practical applications ranging from recipe recommendation systems to culinary innovation and cultural studies.
 
-## ✨ Features
+## ✨ Features {#features}
 - Classification of recipes into Korean, Japanese, Chinese, Thai, and Indian cuisines
 - Identification of distinctive ingredients for each cuisine
 - Analysis of cuisine similarities based on ingredient patterns
 - Visualizations of decision trees, confusion matrices, and ingredient heatmaps
 - Comprehensive evaluation of model performance
 
-## 🔬 Data Science Process
+## 🔬 Data Science Process {#data-science-process}
 
 ### Data Preparation
 - **Data Source**: Comprehensive recipe dataset compiled from multiple recipe websites
@@ -58,7 +58,7 @@ The project includes several visualizations:
 - Most challenging: Chinese cuisine (60%)
 - Detailed analysis of misclassification patterns
 
-## 🔍 Key Findings
+## 🔍 Key Findings  {#key-findings}
 
 ### Cuisine Signatures
 
@@ -93,7 +93,7 @@ The project includes several visualizations:
 3. **Ingredient Substitution Guidelines**
 4. **Dietary Adaptation Strategies**
 
-## 🛠️ Installation
+## 🛠️ Installation {#installation}
 
 ### Requirements
 - Python 3.7+
@@ -103,7 +103,7 @@ The project includes several visualizations:
 - seaborn
 - scikit-learn
 
-## 🚀 Usage
+## 🚀 Usage {#usage}
 
 Run the main script:
 
@@ -118,7 +118,7 @@ The script will:
 4. Generate visualizations
 5. Print detailed analysis and insights
 
-## 📊 Results
+## 📊 Results {#results}
 
 ### Model Performance
 | Cuisine  | Accuracy | Common Misclassification |
@@ -141,7 +141,7 @@ The script will:
 ![Most Distinguishing Ingredients by Cuisine](https://raw.githubusercontent.com/EnricGE/Cuisine-Classification-using-Decision-Trees/main/results/Most-Distinguishing-Ingredients-by-Cuisine.png)
 *Most Distinguishing Ingredients by Cuisine*
 
-## 🔮 Limitations & Future Work
+## 🔮 Limitations & Future Work {#limitations--future-work}
 
 ### Current Limitations
 - Decision trees may overfit with increasing depth
@@ -155,7 +155,7 @@ The script will:
 - Add quantitative ingredient measures
 - Explore ingredient combinations and interactions
 
-## 👥 Contributing
+## 👥 Contributing {#contributing}
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
@@ -164,7 +164,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📄 License {#license}
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
