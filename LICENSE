@@ -2,6 +2,11 @@ MIT License
 
 Copyright (c) 2025 Enric Gil
 
+**Data Source Acknowledgment**
+
+This project utilizes a dataset provided by the IBM Developer Skills Network. All rights to the data are owned by IBM. Users are advised to consult IBM's official documentation or contact IBM directly for specific licensing terms and conditions related to this dataset.
+
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. IBM Data Ownership
